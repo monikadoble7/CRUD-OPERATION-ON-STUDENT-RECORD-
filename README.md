@@ -124,18 +124,6 @@ Contributions are welcome! Please follow the steps:
 
 ---
 
-## License
-
-This project is available under the **MIT License**. See `LICENSE` for details.
-
----
-
-### 📷 (Optional)
-
-Include a screenshot or brief console output demo. Visuals help users get started faster.&#x20;
-
----
-
 ## Final Tips
 
 * Keep this README **brief, clear, and self-contained**&#x20;
